@@ -1,0 +1,8 @@
+{
+  "name": "Nailos Bhargavi",
+  "description": "An elegant nail art studio website featuring galleries, courses, and an intelligent booking system with returning customer discounts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
